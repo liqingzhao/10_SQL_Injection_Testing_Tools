@@ -1,3 +1,45 @@
 1. BSQL Hacker: (Blind SQL Hacker)
 This tool is made by Portcullis Labs. 
 URL: https://labs.portcullis.co.uk/tools/bsql-hacker/ 
+Github (Download): https://github.com/portcullislabs/bsql-hacker 
+
+2. The Mole: (Automatic SQL Injection Exploitation Tool)
+Download: https://sourceforge.net/projects/themole/?source=typ_redirect 
+This tool can potentially bypass the IPS/IDS. 
+Target: SQL Server, MySQL, PostgreSQL, Oracle. 
+
+3. Pangolin 
+This tool is made by company call: NOSEC. 
+It can test almost all database types: Access, MSSQL, MySQL, Oracle, Informix, DB2, Sybase, PostgreSQL, Sqlite. 
+This tool can only be ran on Windows OS system. 
+
+4. sqlmap 
+This is a open source project. 
+Introduction: http://sqlmap.org/ 
+sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
+
+5. Havij 
+It can not only identify the SQL exploit, it can also support SQL database types such as: MSSQL, MySQL, MSAccess and Oracle. 
+
+6. Enema SQLi 
+Enema is not auto-hacking software for script kiddies. This is dynamic tool for professional pentesters. 
+
+7. SQLninja 
+You can only use this tool on an Unix base OS. 
+Sqlninja is a tool targeted to exploit SQL Injection vulnerabilities on a web application that uses Microsoft SQL Server as its back-end.
+Download: http://sqlninja.sourceforge.net/ 
+
+8. sqlsus 
+Kali Linux tool. 
+Official webpage: https://tools.kali.org/vulnerability-analysis/sqlsus 
+sqlsus is an open source MySQL injection and takeover tool, written in perl. 
+Via a command line interface, you can retrieve the database(s) structure, inject your own SQL queries (even complex ones), download files from the web server, crawl the website for writable directories, upload and control a backdoor, clone the database(s), and much more…
+Whenever relevant, sqlsus will mimic a MySQL console output. 
+
+9. Safe3 SQL Injector 
+Download: https://sourceforge.net/projects/safe3si/ 
+Safe3SI is one of the most powerful and easy usage penetration tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a AI detection engine.  
+It support MySQL, Oracle, PostgreSQL, SQL Server, Access, SQLite, Firebird, Sybase, SAP MaxDB. 
+
+10. SQL Poizon 
+It has easy to use GUI for attacker without any professional experiences. SQL Poizon use search engine "dorks" and scan any SQL Injection vulnerable site on the Internet.  
